@@ -1,4 +1,5 @@
 PREFIX ?= $(HOME)
+CFLAGS += -std=c99
 
 .PHONY: all clean distclean install
 
