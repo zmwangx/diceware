@@ -24,7 +24,7 @@ The executable is installed to `$PREFIX/bin`, and the man page is installed to
 
 Alternatively, you may install this via Homebrew:
 
-    brew install https://raw.githubusercontent.com/zmwangx/diceware/master/homebrew-diceware.rb
+    brew install https://raw.githubusercontent.com/zmwangx/diceware/master/diceware.rb
 
 Usage
 -----
